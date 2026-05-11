@@ -1,7 +1,7 @@
-![Logo](https://github.com/Anushka7573/Readme/blob/main/Learning%20Programming.jpg)
-<h1 align="center">Hi 👋, I'm Anushka Prajapati</h1>
+![logo](https://github.com/Anushka7573/Readme/blob/main/Learning%20Programming.jpg)
+<h1 align="center">Hello👋, I'm Anushka Prajapati</h1>
 <h3 align="center">A passionate AI developer from India</h3>
-<img align="right" alt="coding"width="400"src"https://res.cloudinary.com/vondy/image/fetch/q_auto:best,f_auto,w_1200/https://protoinfrastack-myfirstbucketb8884501-fnnzvxt2ee5v.s3.amazonaws.com/4HRnE7Oeo35VSfO0Rn5fXrYNDFN3TIaJtyL7.png">
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/vondy/image/fetch/q_auto:best,f_auto,w_1200/https://protoinfrastack-myfirstbucketb8884501-fnnzvxt2ee5v.s3.amazonaws.com/4HRnE7Oeo35VSfO0Rn5fXrYNDFN3TIaJtyL7.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka7573&label=Profile%20views&color=0e75b6&style=flat" alt="anushka7573" /> </p>
 
 - 🌱 I’m currently learning **Bootstrap, Power BI**
